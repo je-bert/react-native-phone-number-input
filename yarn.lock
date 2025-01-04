@@ -822,9 +822,9 @@ react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-"react-native-country-picker-modal@github:je-bert/react-native-country-picker-modal.git#762989a4d43a7d191fb43aed8101acabc24e78bb":
-  version "2.0.1"
-  resolved "https://codeload.github.com/je-bert/react-native-country-picker-modal/tar.gz/762989a4d43a7d191fb43aed8101acabc24e78bb"
+"react-native-country-picker-modal@github:je-bert/react-native-country-picker-modal.git#663b53c7d2546f4942a3c0a1dcf86726af9ec803":
+  version "2.0.0"
+  resolved "https://codeload.github.com/je-bert/react-native-country-picker-modal/tar.gz/663b53c7d2546f4942a3c0a1dcf86726af9ec803"
   dependencies:
     "@callstack/react-theme-provider" "3.0.9"
     fuse.js "3.4.5"

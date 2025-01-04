@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "google-libphonenumber": "^3.2.10",
-    "react-native-country-picker-modal": "github:je-bert/react-native-country-picker-modal.git#762989a4d43a7d191fb43aed8101acabc24e78bb"
+    "react-native-country-picker-modal": "github:je-bert/react-native-country-picker-modal.git#663b53c7d2546f4942a3c0a1dcf86726af9ec803"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.61.0"
